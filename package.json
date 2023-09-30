@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/rest": "^2.0.1",
+    "discord-api-types": "^0.37.58",
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "miijs": "^1.5.6"
+  }
+}
