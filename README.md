@@ -1,0 +1,1 @@
+Discord bot that brings a fully functional Wii Mii editor to your server. This bot is currently inactive, however you can run it yourself by adding a `token="yourToken"` to the process.env object at the very top, and running the index.js file.
